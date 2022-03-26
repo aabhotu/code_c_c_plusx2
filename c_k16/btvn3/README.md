@@ -1,6 +1,6 @@
 # Bài 1(15đ):
 
-Viết chương trình in ra 3 dãy số nguyên 1 - 100 theo thứ tự giảm dần, trong đó có:\
+Viết chương trình in ra 3 dãy số nguyên 1 - 100 theo thứ tự giảm dần, trong đó có:
 
 - 1 dãy sử dụng vòng lặp for
 - 1 dãy sử dụng vòng lặp while
@@ -34,7 +34,7 @@ C = 1 + 3 + 5 + … + (2*n + 1);\
 
 Nam đang học cấp 1. Nhưng Nam là 1 đứa lười học, suốt ngày lên lớp chỉ ngủ. Cô giảng về bảng cửu chương nhưng Nam vẫn cứ ngủ. Kết quả là Nam ko biết bảng cửu chương như thế nào. Các bạn hay giúp Nam in ra bảng cửu chương nhé.\
 input : Nhập số nguyên n (2<=n<=9)\
-output: Bảng cửu chương n.\
+output: Bảng cửu chương n.
 
 Test case
 

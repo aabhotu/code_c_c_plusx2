@@ -9,7 +9,7 @@
   (2): 2022 + (x+2)/1 + (x^2+4)/(1+2) + (x^3+6)/(1+2+3) +....+(x^n+2n)/(1+2+3+...+n)
 
 Input : 1 dòng lần lượt là số thực x và số nguyên n (n>=0).\
-Output : Đầu ra lấy đến 4 chữ số thập phân sau dấu chấm. Chấp nhận sai số nhỏ !\
+Output : Đầu ra lấy đến 4 chữ số thập phân sau dấu chấm. Chấp nhận sai số nhỏ !
 
 | Input  | Output      |
 | ------ | ----------- |
@@ -34,9 +34,9 @@ Viết hàm xóa các phần tử trùng lặp sao cho mỗi số chỉ xuất h
 Input: - Dòng đầu là số lượng phần tử trong mảng - Dòng thứ hai là các phần tử trong mảng - Dòng thứ 3 là số nguyên x.
 
 Output :\
-In ra 3 dòng lần lượt là các là các phần tử của mảng a sau khi đã xử lí qua 3 hàm trên.\
+In ra 3 dòng lần lượt là các là các phần tử của mảng a sau khi đã xử lí qua 3 hàm trên.
 
-Note : Hàm 3 quy định ưu tiên xóa các số trùng ở phía sau .( a = {1 4 5 4} , Sẽ xóa thành a = {1 4 5}, Không xóa thành a = {1 5 4}.\
+Note : Hàm 3 quy định ưu tiên xóa các số trùng ở phía sau .( a = {1 4 5 4} , Sẽ xóa thành a = {1 4 5}, Không xóa thành a = {1 5 4}.
 
 | Test  | Input           | Output              |
 | ----- | --------------- | ------------------- |

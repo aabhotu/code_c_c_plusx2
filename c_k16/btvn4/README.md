@@ -23,7 +23,7 @@ Test case
 
 # Bài 2:
 
-(20đ) Nhập vào một mảng gồm n số thực(n>0 && n<100). Sắp xếp các số âm theo chiều giảm dần, các số khác thì đứng yên. In mảng đã sắp xếp ra màn hình.\
+(20đ) Nhập vào một mảng gồm n số thực(n>0 && n<100). Sắp xếp các số âm theo chiều giảm dần, các số khác thì đứng yên. In mảng đã sắp xếp ra màn hình.
 
 Test case
 
@@ -53,7 +53,7 @@ b. Đếm và in ra các số hoàn hảo trong mảng. Số hoàn hảo là s�
 
 # Bài 4:
 
-(15đ) Nhập vào một mảng gồm n số thực (n>0 && n<100). In ra các vị trí mà giá trị tại đó là lớn nhất trong mảng.\
+(15đ) Nhập vào một mảng gồm n số thực (n>0 && n<100). In ra các vị trí mà giá trị tại đó là lớn nhất trong mảng.
 
 Test case
 
@@ -64,7 +64,7 @@ Test case
 
 # Bài 5:
 
-(20đ) Nhập vào một mảng gồm n số dương n (n>0 && n<100). Tìm các số nguyên tố có trong mảng, tính tổng các số nguyên tố đó. Biết số nguyên tố là số có 2 ước là 1 và chính nó.\
+(20đ) Nhập vào một mảng gồm n số dương n (n>0 && n<100). Tìm các số nguyên tố có trong mảng, tính tổng các số nguyên tố đó. Biết số nguyên tố là số có 2 ước là 1 và chính nó.
 
 Test case
 
