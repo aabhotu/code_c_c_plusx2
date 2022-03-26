@@ -24,10 +24,11 @@ tổng giá tiền.\
 Input: 2 số n, m (1 ≤ n ≤ 999; 7,000 ≤ m ≤ 200,000 và m chia hết cho 100)\
 Ouput: 1 số duy nhất: là số tiền Hùng phải trả
 
-test case:\
-44 10000 374000\
-33 11200 295680\
-5 13000 65000
+| test     | case   |
+| -------- | ------ |
+| 44 10000 | 374000 |
+| 33 11200 | 295680 |
+| 5 13000  | 65000  |
 
 # Bài 4: Chia kẹo
 
@@ -40,9 +41,10 @@ là số túi kẹo, k là số kẹo của mỗi túi. (1 ≤ n ≤ 20 , 1 ≤ 
 Output: 1 dòng duy nhất là kết quả của bài toán, nếu chia được in ra “no”, ngược
 lại in ra “yes”
 
-test case\
-3 4 17 yes\
-17 3 34 no
+| test    | case |
+| ------- | ---- |
+| 3 4 17  | yes  |
+| 17 3 34 | no   |
 
 # Bài 5: Đếm ngày
 
