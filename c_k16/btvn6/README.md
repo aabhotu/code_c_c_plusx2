@@ -1,16 +1,16 @@
 # Bài 1:
 
-Tính giá trị biểu thức L:\
+Tính giá trị biểu thức L:
 
-- Với số nguyên n và số thực x nhập từ bàn phím\
-- Với n chẵn, L tính theo công thức (1)\
-- Với các trường hợp còn lại L tính theo công thức (2)\
+- Với số nguyên n và số thực x nhập từ bàn phím
+- Với n chẵn, L tính theo công thức (1)
+- Với các trường hợp còn lại L tính theo công thức (2)
 
 L =\
 (1): |log2(x) + e^n 2021|\
-(2): log2(x) +2021 +1/x + 3/x^2 + 5/x^3 + .... + (2n+1)/x^n\
+(2): log2(x) +2021 +1/x + 3/x^2 + 5/x^3 + .... + (2n+1)/x^n
 
-- Input: 1 số nguyên n, 1 số thực x\
+- Input: 1 số nguyên n, 1 số thực x
 - Output: kết quả của L (lấy 4 giá trị phần thập phân)\
   Ví dụ:\
   Input \
@@ -32,7 +32,7 @@ Input \
 97 \
 Output\
 1\
-7\
+7
 
 Input\
 5695 \
