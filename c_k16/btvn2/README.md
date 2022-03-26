@@ -1,7 +1,7 @@
 # Bài 1: Đủ tuổi
 
 Viết chương trình nhập vào số tuổi, nếu tuổi đủ 18 thì in ra là “Đã đủ tuổi đi tù”, còn nếu
-chưa đủ 18 thì in ra là “chưa đủ tuổi đi tù”. Dùng toán tử 3 ngôi.\
+chưa đủ 18 thì in ra là “chưa đủ tuổi đi tù”. Dùng toán tử 3 ngôi.
 
 # Bài 2: Mũ 4
 
@@ -11,7 +11,7 @@ Output: Kết quả của (a/3)^4 , làm tròn đến chữ số thập phân th
 
 test case\
 4 3.160\
-50 77160.484\
+50 77160.484
 
 # Bài 3: Mua hoa
 
@@ -27,7 +27,7 @@ Ouput: 1 số duy nhất: là số tiền Hùng phải trả\
 test case:\
 44 10000 374000\
 33 11200 295680\
-5 13000 65000\
+5 13000 65000
 
 # Bài 4: Chia kẹo
 
@@ -42,7 +42,7 @@ lại in ra “yes”\
 
 test case\
 3 4 17 yes\
-17 3 34 no\
+17 3 34 no
 
 # Bài 5: Đếm ngày
 
