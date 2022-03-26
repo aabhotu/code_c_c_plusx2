@@ -10,18 +10,15 @@
 
 Input : 1 dòng lần lượt là số thực x và số nguyên n (n>=0).\
 Output : Đầu ra lấy đến 4 chữ số thập phân sau dấu chấm. Chấp nhận sai số nhỏ !\
-Input \
-4.5 4 \
-Output 2073.2317\
-Input\
-6 5 \
-Output 2729.8000\
-Key chấm 1\
-Input 10.5 6 \
-Output 5716.2686\
-Key chấm 2\
-Input 10.5 7 \
-Output 578343.0625\
+
+| Input  | Output      |
+| ------ | ----------- |
+| 4.5 4  | 2073.2317   |
+| Key1   |             |
+| 10.5 6 | 5716.2686   |
+| Key2   |             |
+| 10.5 7 | 578343.0625 |
+
 Do dùng hàm có sẵn hoặc tự viết nên Sai số sau dấu , nhỏ có thể coi như đúng
 
 Gợi ý : Đơn giản bài toán cần viết các hàm tính giai thừa, lũy thừa, tính tổng cấp số cộng cho cho mẫu nếu cần thiết.\
@@ -40,55 +37,24 @@ Output :\
 In ra 3 dòng lần lượt là các là các phần tử của mảng a sau khi đã xử lí qua 3 hàm trên.\
 
 Note : Hàm 3 quy định ưu tiên xóa các số trùng ở phía sau .( a = {1 4 5 4} , Sẽ xóa thành a = {1 4 5}, Không xóa thành a = {1 5 4}.\
-Test 1 \
-Input \
-4 \
-1 2 4 3 \
-10 \
-Output\
-1 2 10 4 3 10\
-1 2 10 4 10\
-1 2 10 4
 
-Test 2 \
-Input\
-7 \
-7 4 9 7 8 30 21 \
-8 \
-Output\
-7 8 4 9 7 8 8 30 21\
-7 8 4 7 8 8 30\
-7 8 4 30
-
-key chấm 1 \
-Input\
-5 \
-21 21 28 3 5\
-3 \
-Output\
-21 21 28 3 3 5 3\
-28 5\
-28 5
-
-key chấm 2 \
-Input\
-3 \
-11 7 1 \
-0 \
-Output\
-11 7 0 1\
-11 7 0 1\
-11 7 0 1
-
-key chấm 3 \
-Input\
-5 \
-7 7 5 7 7 \
-7 \
-Output\
-7 7 7 7 5 7 7 7 7 7\
-7 7 7 7 5 7 7 7 7 7\
-7 5
+| Test  | Input           | Output              |
+| ----- | --------------- | ------------------- |
+| 1     | 4               | 1 2 10 4 3 10       |
+|       | 1 2 4 3         | 1 2 10 4 10         |
+|       | 10              | 1 2 10 4            |
+| 2     | 7               | 7 8 4 9 7 8 8 30 21 |
+|       | 7 4 9 7 8 30 21 | 7 8 4 7 8 8 30      |
+|       | 8               | 7 8 4 30            |
+| Key 1 | 5               | 21 21 28 3 3 5 3    |
+|       | 21 21 28 3 5    | 28 5                |
+|       | 10              | 28 5                |
+| Key 2 | 3               | 11 7 0 1            |
+|       | 11 7 1          | 11 7 0 1            |
+|       | 0               | 11 7 0 1            |
+| Key 3 | 5               | 7 7 7 7 5 7 7 7 7 7 |
+|       | 7 7 5 7 7       | 7 7 7 7 5 7 7 7 7 7 |
+|       | 7               | 7 5                 |
 
 -Hàm (1) cần chú ý chèn x nếu x là số nguyên tố ? , chỉ chèn sau các số nguyên tố nhỏ hơn 10\
 -Hàm (2) ,(3) cần chú ý xóa trong TH có 2 số thỏa mãn xóa đứng liền kề nhau

@@ -9,9 +9,12 @@ Nhập vào số nguyên a (2 ≤ a ≤ 50). Hiển thị ra màn hình kết qu
 Input:1 dòng duy nhất chứa số nguyên a\
 Output: Kết quả của (a/3)^4 , làm tròn đến chữ số thập phân thứ 3
 
-test case\
-4 3.160\
-50 77160.484
+Test case
+
+| Input | Output    |
+| ----- | --------- |
+| 4     | 3.160     |
+| 50    | 77160.484 |
 
 # Bài 3: Mua hoa
 
@@ -24,7 +27,9 @@ tổng giá tiền.\
 Input: 2 số n, m (1 ≤ n ≤ 999; 7,000 ≤ m ≤ 200,000 và m chia hết cho 100)\
 Ouput: 1 số duy nhất: là số tiền Hùng phải trả
 
-| test     | case   |
+Test case
+
+| Input    | Output |
 | -------- | ------ |
 | 44 10000 | 374000 |
 | 33 11200 | 295680 |
@@ -41,10 +46,12 @@ là số túi kẹo, k là số kẹo của mỗi túi. (1 ≤ n ≤ 20 , 1 ≤ 
 Output: 1 dòng duy nhất là kết quả của bài toán, nếu chia được in ra “no”, ngược
 lại in ra “yes”
 
-| test    | case |
-| ------- | ---- |
-| 3 4 17  | yes  |
-| 17 3 34 | no   |
+Test case
+
+| Input   | Output |
+| ------- | ------ |
+| 3 4 17  | yes    |
+| 17 3 34 | no     |
 
 # Bài 5: Đếm ngày
 

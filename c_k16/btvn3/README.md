@@ -34,13 +34,15 @@ C = 1 + 3 + 5 + … + (2*n + 1);\
 
 Nam đang học cấp 1. Nhưng Nam là 1 đứa lười học, suốt ngày lên lớp chỉ ngủ. Cô giảng về bảng cửu chương nhưng Nam vẫn cứ ngủ. Kết quả là Nam ko biết bảng cửu chương như thế nào. Các bạn hay giúp Nam in ra bảng cửu chương nhé.\
 input : Nhập số nguyên n (2<=n<=9)\
-output: Bảng cửu chương n.
+output: Bảng cửu chương n.\
 
-INPUT 2\
-OUTPUT\
- 2 x 1 = 2\
- 2 x 2 = 4\
- 2 x 3 = 6\
- ….\
- 2 x 9 = 18\
- 2 x 10 = 20
+Test case
+
+| Input | Output      |
+| ----- | ----------- |
+| 2     | 2 x 1 = 2   |
+|       | 2 x 2 = 4   |
+|       | 2 x 3 = 6   |
+| ..... |             |
+|       | 2 x 9 = 18  |
+|       | 2 x 10 = 20 |
